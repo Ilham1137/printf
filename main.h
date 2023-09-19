@@ -1,5 +1,10 @@
+<<<<<<< HEAD
 #ifndef main_H
 #define main_H
+=======
+#ifndef MAIN_H
+#define MAIN_H
+>>>>>>> f1c52f65352eb18b139422c4058a6685c71c797b
 
 #include <stdlib.h>
 #include <stdarg.h>
