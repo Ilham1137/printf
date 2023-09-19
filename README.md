@@ -13,6 +13,6 @@ Key takeaways from this project include:
 Clone printf uses a number of open source projects to work properly:
 
 - [GCC] - GNU Compiler Collection
-- 
+
 Akame
 [https://github.com/Akame0xg1rl]
