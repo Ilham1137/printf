@@ -1,6 +1,7 @@
 #include "main.h"
 
 /**
+ * Akame (Function printing different data types.)
  * get_print - selects the right printing function
  * depending on the conversion specifier passed to _printf
  * @s: character that holds the conversion specifier
